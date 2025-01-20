@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account: https://github.com/jackfizh 
+- github account: @jackfizh 
 - Email: mudanona312@gmail.com
 - Arweave Address: BwlPJA6V-FkwRQ-5I3bi_YNjBkDi5R4i_fEIaWOYmso
 - ETH Address: 0x6C25F120Eb1E8BC6038cC50F0cd7Eb0E901A763C
